@@ -14,7 +14,7 @@
 
 
 ### :camera: Snapshot
-<div align="center"> <a href="https://portfolio-weut.onrender.com/"><img src=https://github.com/omkarsharma2821/Portfolio/blob/main/screenshot/Screenshot%202023-12-28%20150322.png></a> </div>
+<div align="center"> <a href="https://portfolio-weut.onrender.com/"><img src=https://github.com/Gaurav270924/Portfolio/blob/main/screenshot/Screenshot%202025-08-03%20034135.png></a> </div>
 
 ### :dart: Features
 
@@ -33,7 +33,7 @@
 Clone the project
 
 ```bash
-https://github.com/omkarsharma2821/Portfolio
+https://github.com/Gaurav270924/Portfolio
 ```
 Go to the omkar directory
 ```bash
@@ -58,8 +58,8 @@ npm run build
 
 ## :handshake: Contact
 
-Omkar Sharma - [LINKEDIN](https://www.linkedin.com/in/omkarsharmaa/) <br>
-Email - omkarsharma2821@gmail.com <br>
-Project Link: [GITHUB](https://github.com/omkarsharma2821/Portfolio) 
+Omkar Sharma - [LINKEDIN](https://www.linkedin.com/in/gaurav2707/) <br>
+Email - gaudav217@gmail.com@gmail.com <br>
+Project Link: [GITHUB](https://github.com/Gaurav270924/Portfolio) 
 
 ## If you liked the Portfolio, you can give Star ⭐.
