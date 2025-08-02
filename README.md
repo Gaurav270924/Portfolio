@@ -58,7 +58,7 @@ npm run build
 
 ## :handshake: Contact
 
-Omkar Sharma - [LINKEDIN](https://www.linkedin.com/in/gaurav2707/) <br>
+Gaurav Yadav - [LINKEDIN](https://www.linkedin.com/in/gaurav2707/) <br>
 Email - gaudav217@gmail.com@gmail.com <br>
 Project Link: [GITHUB](https://github.com/Gaurav270924/Portfolio) 
 
