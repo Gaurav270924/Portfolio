@@ -2,7 +2,7 @@
 
 <h1>Portfolio</h1>
 
-<h4> <a href=https://portfolio-weut.onrender.com/>Live Link</a> <span> · </span> <a href="https://github.com/Gaurav270924/Portfolio/blob/main/README.md"> Documentation </a> <span> ·</h4>
+<h4> <span> · </span> <a href="https://github.com/Gaurav270924/Portfolio/blob/main/README.md"> Documentation </a> <span> </h4>
 </div>
 
 # :notebook_with_decorative_cover: Table of Contents
@@ -14,7 +14,7 @@
 
 
 ### :camera: Snapshot
-<div align="center"> <a href="https://portfolio-weut.onrender.com/"><img src=https://github.com/Gaurav270924/Portfolio/blob/main/screenshot/Screenshot%202025-08-03%20034135.png></a> </div>
+<div align="center"><img src=https://github.com/Gaurav270924/Portfolio/blob/main/screenshot/Screenshot%202025-08-03%20034135.png></a> </div>
 
 ### :dart: Features
 
