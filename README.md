@@ -37,7 +37,7 @@ https://github.com/Gaurav270924/Portfolio
 ```
 Go to the omkar directory
 ```bash
-cd omkar
+cd Gaurav
 ```
 Install dependencies
 ```bash
